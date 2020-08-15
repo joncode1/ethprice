@@ -8,7 +8,4 @@ View Demo : https://ethprice.vercel.app/
 
 
 
-v1.1
-Added Bootstrap
-Fetch Rest API: Binance/Coindesk
-NPM install 'isomorphic-unfetch'
+v1.1 // Added Bootstrap //Fetch Rest API: Binance/Coindesk // NPM install 'isomorphic-unfetch'
