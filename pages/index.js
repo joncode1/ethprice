@@ -14,7 +14,7 @@ const Homepage = (theProps) =>(
       </Head>
 
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
-            <a className="navbar-brand" href="#">Ethereum Prices</a>
+            <a className="navbar-brand" href="#">Ethereum Price</a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
                     aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
@@ -34,7 +34,7 @@ const Homepage = (theProps) =>(
 
         <p style={{alignItems: "center", display: "flex",justifyContent: "center",}}>Updated on: {theProps.thePassed2.time.updated}</p>
 
-        <p style={{alignItems: "center", display: "flex",justifyContent: "center",}}>Data fetched from Binance/Coindesk</p>
+        <p style={{alignItems: "center", display: "flex",justifyContent: "center",}}>Data fetched from Binance/Coindesk..</p>
         </div>
 
 );
